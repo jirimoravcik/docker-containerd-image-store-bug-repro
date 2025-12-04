@@ -13,3 +13,5 @@ You should see:
 ```
 Push: {"error":"image with reference localhost:5678/my-repo:docker-containerd-image-store-bug-repro was found but does not provide any platform","errorDetail":{"message":"image with reference localhost:5678/my-repo:docker-containerd-image-store-bug-repro was found but does not provide any platform"}}
 ```
+
+More information and discussion is available at https://github.com/moby/moby/issues/51665
