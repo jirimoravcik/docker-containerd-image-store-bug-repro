@@ -1,0 +1,17 @@
+{
+  "name": "docker-containerd-image-store-repro",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "dockerode": "^4.0.9",
+    "tar-fs": "^3.1.1"
+  }
+}
